@@ -1,4 +1,4 @@
-import 'package:note_app/ui/views/note/note_model.dart';
+import 'package:mynote/ui/views/note/note_model.dart';
 import 'package:stacked/stacked.dart';
 
 import 'note_model.dart';
