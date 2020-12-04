@@ -1,5 +1,5 @@
-import 'package:mynote/repostory/local_repostory.dart';
-import 'package:mynote/repostory/repository.dart';
+import 'package:note_app/repostory/local_repostory.dart';
+import 'package:note_app/repostory/repository.dart';
 
 import 'note_model.dart';
 

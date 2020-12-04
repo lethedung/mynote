@@ -1,4 +1,4 @@
-import 'package:mynote/repostory/local_repostory.dart';
+import 'package:note_app/repostory/local_repostory.dart';
 
 /// Lớp trừu tượng để cho các model thừa kế và dùng trong việc
 /// thêm / sửa / xóa và lấy dữ liệu (Create, Read, Update, Delete - CRUD)
